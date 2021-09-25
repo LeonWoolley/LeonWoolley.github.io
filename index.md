@@ -1,8 +1,14 @@
-## Welcome to GitHub Pages
+## Leon Woolley
 
-You can use the [editor on GitHub](https://github.com/LeonWoolley/LeonWoolley.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## About
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Instagram](https://instagram.com/leon_foods/)
+
+[Discord Bot] ## Coming soon
+
+[Website](https://leonwoolley.github.io)
+
+[Linktree](https://linktr.ee/leonwoolley/)
 
 ### Markdown
 
